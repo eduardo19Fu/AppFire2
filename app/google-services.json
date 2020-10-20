@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160206877029",
+    "firebase_url": "https://freefire-c53c8.firebaseio.com",
+    "project_id": "freefire-c53c8",
+    "storage_bucket": "freefire-c53c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160206877029:android:31e60346d3487adf",
+        "android_client_info": {
+          "package_name": "com.example.abyte.appfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160206877029-m69b1f6bbi95krejqk9petb4spe8cmkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abyte.appfire",
+            "certificate_hash": "ceba5491def9f05633744e2e206a5132c72e4c4f"
+          }
+        },
+        {
+          "client_id": "160206877029-fp7hqe95qjnb4pl45ki1as77dfnhtrbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWPvlk68UhQVRh-zsJX3Sveu91ylAcBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160206877029-fp7hqe95qjnb4pl45ki1as77dfnhtrbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
